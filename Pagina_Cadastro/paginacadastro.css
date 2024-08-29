@@ -1,0 +1,40 @@
+body {
+    background-color: #ebded8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.inputs {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    border-radius: 10px;
+    height: 35px;
+    width: 500px;
+    border: none;
+    
+}
+
+.maior {
+    background-color: #6d2626;
+    padding: 20px;
+    width: 60%;
+    border-radius: 20px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+
+    
+}
+
+label {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    font-size: 18px;
+}
+
+h1 {
+    color: white;
+}
